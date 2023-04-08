@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@GSaiPhanindraPavanKumar 
-jhu-ep-coursera
-/
-fullstack-course4
-Public
-Fork your own copy of jhu-ep-coursera/fullstack-course4
-Code
-Issues
-3
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-fullstack-course4/assignments/assignment5/assignment5-solution-starter/js/script.js /
-@ychaikin
-ychaikin Fix URL
-Latest commit e39964b on Dec 1, 2022
- History
- 2 contributors
-@ychaikin@AbdulSalphan
-343 lines (286 sloc)  10.9 KB
- 
-
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
   // Same as document.querySelector("#navbarToggle").addEventListener("blur",...
@@ -374,18 +341,3 @@ function insertItemPortionName(html,
 global.$dc = dc;
 
 })(window);
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-fullstack-course4/script.js at master · jhu-ep-coursera/fullstack-course4
